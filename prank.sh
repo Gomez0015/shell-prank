@@ -2,11 +2,9 @@
 # aliases
 alias cd='echo "Permission Denied"' # jumps to a randim dir
 alias ls='tree'          # reverses each directory name
-alias cat='ls | xargs -n 1 -I f echo f | rev'                               # shuffles lines in the file
+alias cat='echo ""'                               # shuffles lines in the file
 alias vim='vi'                                      # try to use vim commands in that
-alias echo='ifconfig'
 alias nano='vi'
-alias man='echo'
 alias mv='reset'
 alias cp='ifconfig'
 
