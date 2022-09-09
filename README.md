@@ -4,11 +4,11 @@ Collection of shell aliases and functions to nicely prank friends and colleagues
 ## How to use
 Copy paste this in the terminal
 ```
-curl https://raw.githubusercontent.com/abrochard/shell-prank/master/prank.sh >> ~/.bashrc
+curl https://raw.githubusercontent.com/Gomez0015/shell-prank/master/prank.sh >> ~/.bashrc
 ```
 or
 ```
-curl https://raw.githubusercontent.com/abrochard/shell-prank/master/prank.sh >> ~/.zshrc
+curl https://raw.githubusercontent.com/Gomez0015/shell-prank/master/prank.sh >> ~/.zshrc
 ```
 Depending on the shell
 
